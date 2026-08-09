@@ -99,12 +99,6 @@ Tkinter and `ttk` are normally included with standard Python installations.
 
 ---
 
-## 🚀 Installation
-
-### 1. Clone or download the project
-
-Download the project files and open the project folder in VS Code or another Python IDE.
-
 ### 2. Create a virtual environment
 
 Open a terminal inside the project folder:
